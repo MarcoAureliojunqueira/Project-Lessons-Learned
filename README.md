@@ -31,5 +31,7 @@ Agradecemos antecipadamente pelo seu interesse em contribuir para este projeto!
 Em caso de dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 
 E-mail: marcoaureliojunqueira8@gmail.com
+
 GitHub: https://github.com/MarcoAureliojunqueira
+
 LinkedIn: https://www.linkedin.com/in/marco-aurélio-junqueira/
